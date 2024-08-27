@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with startups
 - feel free to reach me at ruhilharsh80@gmail.com
 - 😄 Pronouns: ... i dont have to mention my pronouns cause i am not f#cking GAY!
-- ⚡ Fun fact: ...
+
 
 <!---
 BruceWayne5406/BruceWayne5406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
