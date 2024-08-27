@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, embedded systems,enterepreneurial opputunities in tech
 - 🌱 I’m currently learning python,openCV
 - 💞️ I’m looking to collaborate with startups
-- feel free tio reach me at ruhilharsh80@gmail.com
+- feel free to reach me at ruhilharsh80@gmail.com
 - 😄 Pronouns: ... i dont have to mention my pronouns cause i am not f#cking GAY!
 - ⚡ Fun fact: ...
 
