@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BruceWayne5406
-- 👀 I’m interested in AI, embedded systems,enterepreneurial opputunities in tech
+- 👀 I’m interested in AI, chip design,enterepreneurial opputunities in tech
 - 🌱 I’m currently learning ML fundamentals because i want to build SNNs
 - Also learning verilog and CMOS, interested in chip design and manufacturing.
 - feel free to reach me at ruhilharsh80@gmail.com
